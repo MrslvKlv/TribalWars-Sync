@@ -1,6 +1,6 @@
 {
-  "version": "1.63.2",
-  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.63.2.dll",
-  "sha256": "89b2493ffbe9a9bc4af3e10c34420124b25b86b53d30bab58c9f27ee24ded4ad",
-  "notes": "container locks, ownership fixes, self-update"
+  "version": "1.63.3",
+  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.63.3.dll",
+  "sha256": "1788946c8f0690b8f123a94537f7e439cf87486e306399bd2ba06a40419b137c",
+  "notes": "auto-update test build"
 }
