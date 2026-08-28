@@ -1,6 +1,6 @@
 {
-  "version": "1.63.6",
-  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.63.6.dll",
-  "sha256": "b5222df870c5ecbf9286afe96ed25451b7b1663ecc79ffb6f7ffa084dfb487c1",
-  "notes": "patcher verifies the download checksum"
+  "version": "1.63.7",
+  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.63.7.dll",
+  "sha256": "cd751f950debfca9eb94952c0b014f2135789525227887da247d2306cc4d322f",
+  "notes": "version bump for the auto-update test; no behaviour change from 1.63.6"
 }
