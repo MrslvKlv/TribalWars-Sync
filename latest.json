@@ -1,6 +1,6 @@
 {
-  "version": "1.63.9",
-  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.63.9.dll",
-  "sha256": "84b9936afbe740ae77cbaeb0f03d56a7a3737b65293cfa20e28084a55e74f2df",
-  "notes": "camp protection zone and ring, admin grab tool, correct camp totems"
+  "version": "1.63.10",
+  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.63.10.dll",
+  "sha256": "1e71c5f7369bf92cbcb351cde8d8ab3f8e3c2ea79364aefe7c6ccbe67b20d268",
+  "notes": "player size and big head, shared through the host"
 }
