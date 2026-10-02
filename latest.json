@@ -1,6 +1,6 @@
 {
-  "version": "1.64.0",
-  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.64.0.dll",
-  "sha256": "a1e26a3cdbca732ca1f334a29c230c9df6b58aad7523ec0288efbeff4f0afeb2",
-  "notes": "botanical plant names in the notebook, by FraNerd"
+  "version": "1.64.1",
+  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.64.1.dll",
+  "sha256": "b6cf5edfff9e959a8086c0fda6b89ecb0aca2d4b57b91a68b230f858b700d763",
+  "notes": "Discord moderation log, grab tool tilt and lean"
 }
