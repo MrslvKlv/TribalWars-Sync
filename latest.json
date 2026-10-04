@@ -1,6 +1,6 @@
 {
-  "version": "1.64.1",
-  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.64.1.dll",
-  "sha256": "b6cf5edfff9e959a8086c0fda6b89ecb0aca2d4b57b91a68b230f858b700d763",
-  "notes": "Discord moderation log, grab tool tilt and lean"
+  "version": "1.67.2",
+  "url": "https://raw.githubusercontent.com/MrslvKlv/TribalWars-Sync/main/builds/TribalWars-1.67.2.dll",
+  "sha256": "b9b457e2bd4c9635fab8e1668d73ac3c161f48868fbd31f418a202b292fddbef",
+  "notes": "The Mark, ranks, territory, last-seen recorder, new moderation cards"
 }
